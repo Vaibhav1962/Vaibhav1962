@@ -15,57 +15,37 @@
 
 <br/>
 
-<!-- ============================================================ -->
-<!--           FAKE SIDEBAR + HERO — two-column layout           -->
-<!-- ============================================================ -->
-
+<!-- ================================================================ -->
+<!--        TWO-COLUMN LAYOUT: SIDEBAR (left) + CONTENT (right)       -->
+<!-- ================================================================ -->
 <table>
 <tr>
+<td width="33%" valign="top" align="center">
 
-<!-- ░░░░░░░░░░░░  LEFT SIDEBAR  ░░░░░░░░░░░░ -->
-<td width="34%" valign="top">
+<!-- ──────────────────── DIVIDER ──────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=4&width=100%25" width="100%"/>
 
-<div align="center">
+**`⚔️ COMBAT RECORD ⚔️`**
 
-<!-- Avatar frame via capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c0a01,100:5c2a08&height=6&width=100%25" width="100%"/>
+<!-- streak-stats.demolab.com is the most reliable streak provider -->
+<img src="https://streak-stats.demolab.com?user=Vaibhav1962&theme=dark&hide_border=true&background=0d0500&ring=c9a84c&fire=9e5c18&currStreakLabel=c9a84c&sideLabels=faecc8&currStreakNum=faecc8&sideNums=faecc8&dates=a07830&stroke=6b3008&border_radius=8" width="100%"/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=4&width=100%25" width="100%"/>
 
-**`⚔️ KNIGHT'S SIGIL ⚔️`**
+**`📊 KINGDOM METRICS`**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav1962&show_icons=true&hide_border=true&bg_color=0d0500&title_color=c9a84c&text_color=faecc8&icon_color=9e5c18&hide_title=true&hide_rank=false&rank_icon=github&theme=dark" width="100%"/>
+<!-- anuraghazra stats - most stable instance -->
+<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav1962&show_icons=true&hide_border=true&bg_color=0d0500&title_color=c9a84c&text_color=faecc8&icon_color=9e5c18&hide_title=true&rank_icon=github&theme=dark&border_radius=8&count_private=true" width="100%"/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=4&width=100%25" width="100%"/>
 
-<!-- Snake contribution graph -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c0a01,100:5c2a08&height=3&width=100%25" width="100%"/>
+**`🗣️ BATTLE LANGUAGES`**
 
-**`📜 SACRED STATS`**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav1962&layout=compact&hide_border=true&bg_color=0d0500&title_color=c9a84c&text_color=faecc8&theme=dark&border_radius=8&langs_count=6" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav1962&hide_border=true&background=0d0500&ring=c9a84c&fire=9e5c18&currStreakLabel=c9a84c&sideLabels=faecc8&currStreakNum=faecc8&sideNums=faecc8&dates=a07830&stroke=6b3008" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=4&width=100%25" width="100%"/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c0a01,100:5c2a08&height=3&width=100%25" width="100%"/>
-
-**`🗣️ LANGUAGES`**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav1962&layout=compact&hide_border=true&bg_color=0d0500&title_color=c9a84c&text_color=faecc8&theme=dark" width="100%"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c0a01,100:5c2a08&height=3&width=100%25" width="100%"/>
-
-**`🏅 ORDER OF MERIT`**
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vaibhav1962&theme=darkhub&no-frame=true&no-bg=true&margin-w=2&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c0a01,100:5c2a08&height=3&width=100%25" width="100%"/>
-
-**`⚙️ ARSENAL`**
+**`⚙️ THE ARSENAL`**
 
 <img src="https://skillicons.dev/icons?i=cpp,python,tensorflow&theme=dark&perline=3" />
 <img src="https://skillicons.dev/icons?i=fastapi,flask,docker&theme=dark&perline=3" />
@@ -73,39 +53,40 @@
 <img src="https://skillicons.dev/icons?i=mysql,supabase,linux&theme=dark&perline=3" />
 <img src="https://skillicons.dev/icons?i=react,ts,aws&theme=dark&perline=3" />
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=4&width=100%25" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c0a01,100:5c2a08&height=3&width=100%25" width="100%"/>
+**`🏆 ORDER OF MERIT`**
 
-**`🌍 LOCATION`**
+<img src="https://github-profile-trophy.vercel.app/?username=Vaibhav1962&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=3" width="100%"/>
 
-`📍 Delhi, India`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=4&width=100%25" width="100%"/>
 
-**`🎓 GUILD`**
+**`🌱 ACTIVE QUESTS`**
 
-`JIIT Noida · 2023–2027`
+```
+🛡️ AWS Architect
+📚 Deep Learning (Ng)
+⚙️ MLOps in Production
+🎯 AWS ML Certification
+```
 
-**`📧 DISPATCH`**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=4&width=100%25" width="100%"/>
 
-`vaibhav.singh.252005`<br/>`@gmail.com`
+`📍 Delhi, India`&nbsp;&nbsp;`🎓 JIIT 2027`
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Vaibhav1962&color=6b3008&style=flat-square&label=Kingdom+Visitors" />
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=Vaibhav1962&color=6b3008&style=flat-square&label=Visitors" />
 
 </td>
 
-<!-- ░░░░░░░░░░░░  MAIN CONTENT  ░░░░░░░░░░░░ -->
-<td width="66%" valign="top">
+<!-- ════════════════════════════════════════════════ -->
+<!--                  MAIN CONTENT                  -->
+<!-- ════════════════════════════════════════════════ -->
+<td width="67%" valign="top">
 
-<!-- DOSSIER -->
 ```
 ╔══════════════════════════════════════════════════════╗
 ║              ⚔️   KNIGHT'S DOSSIER   ⚔️               ║
 ╠══════════════════════════════════════════════════════╣
-║                                                      ║
 ║  Rank    ›  3rd Year CS Undergrad                    ║
 ║  Guild   ›  JIIT Noida  ·  2023–2027                 ║
 ║  Order   ›  ML Engineer  ·  IEEE Researcher          ║
@@ -114,7 +95,6 @@
 ║                                                      ║
 ║  ❝ He who deploys models in production               ║
 ║    shall inherit the kingdom. ❞                      ║
-║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
@@ -139,8 +119,6 @@ class VaibhavSingh:
         return "Ship it. Measure it. Conquer."
 ```
 
-<br/>
-
 ---
 
 ### ⚡ Skill Mastery
@@ -153,15 +131,15 @@ class VaibhavSingh:
   Docker/DevOps   ███████████████░░░░░░░░░  65%   Squire
   SQL/Databases   ██████████████░░░░░░░░░░  60%   Squire
   DSA/Algorithms  ███████████████░░░░░░░░░  65%   Squire
-  Cloud / AWS     ████████░░░░░░░░░░░░░░░░  30%   ⬆ Levelling
+  Cloud / AWS     ████████░░░░░░░░░░░░░░░░  30%   ⬆ Novice
 ```
 
 ---
 
-### 🗡️ Conquests
+### 🗡️ Conquests & Campaigns
 
 <details>
-<summary><b>🧠 SOUL — Mental Health &amp; Emotion Prediction API</b> &nbsp;<code>Feb 2025</code> &nbsp;<img src="https://img.shields.io/badge/Crown_Jewel-c9a84c?style=flat-square&labelColor=0d0500"/></summary>
+<summary><b>🧠 SOUL — Mental Health &amp; Emotion Prediction API</b> &nbsp;<code>Feb 2025</code> &nbsp;<img src="https://img.shields.io/badge/👑_Crown_Jewel-c9a84c?style=flat-square&labelColor=0d0500"/></summary>
 <br/>
 
 > *"In the darkest of times, the kingdom needed a system that could feel."*
@@ -171,17 +149,18 @@ class VaibhavSingh:
 | Metric | Achievement |
 |:---|:---|
 | 🎯 Emotion Classification | 28-class multi-label · **93% accuracy** |
-| 🚨 Crisis Detection | Binary · **F1: 0.928** |
+| 🚨 Crisis Detection | Binary classifier · **F1: 0.928** |
 | ⚡ Inference Latency | **Sub-200ms p95** under concurrent load |
-| 🔐 Data Integrity | SHA-256 input hashing |
+| 🔐 Data Integrity | SHA-256 input hashing per request |
 | 📡 Alerting | Async real-time crisis flags to consumers |
 
 - Model warmup + tokenizer caching → cold-start eliminated
-- Horizontal scaling behind load balancer · Unit-tested pipeline
+- Horizontal scaling behind load balancer
+- Unit-tested inference pipeline with structured logging
 </details>
 
 <details>
-<summary><b>🎓 Academic Digital Twin</b> &nbsp;<code>May 2026</code> &nbsp;<img src="https://img.shields.io/badge/Grand_Project-4ecdc4?style=flat-square&labelColor=052020"/> &nbsp;<a href="https://minor2-digital-twin.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-c9a84c?style=flat-square&labelColor=0d0500"/></a></summary>
+<summary><b>🎓 Academic Digital Twin</b> &nbsp;<code>May 2026</code> &nbsp;<img src="https://img.shields.io/badge/🔬_Grand_Project-4ecdc4?style=flat-square&labelColor=052020"/> &nbsp;<a href="https://minor2-digital-twin.vercel.app"><img src="https://img.shields.io/badge/🌐_Live-c9a84c?style=flat-square&labelColor=0d0500"/></a></summary>
 <br/>
 
 > *"A digital twin that knows a student better than their professors do."*
@@ -190,14 +169,14 @@ class VaibhavSingh:
 
 | Component | Details |
 |:---|:---|
-| 🌀 Fuzzy Systems | 2 systems · 12–24 rules · centroid defuzz |
-| 🤖 ML Models | K-Means archetypes + Random Forest risk |
-| 🔬 Simulation | What-If · Ablation · Goal Sensitivity |
+| 🌀 Fuzzy Systems | 2 systems · 12–24 rules · centroid defuzzification |
+| 🤖 ML Models | K-Means archetypes + Random Forest risk pipeline |
+| 🔬 Simulation | What-If · Ablation · Goal Sensitivity endpoints |
 | 🚀 Deployment | Flask REST → Render + Supabase |
 </details>
 
 <details>
-<summary><b>🌿 Plant Disease Classifier</b> &nbsp;<code>Jun 2024</code> &nbsp;<img src="https://img.shields.io/badge/Edge_Deploy-6bcb77?style=flat-square&labelColor=052010"/> &nbsp;<a href="https://vaibhav-23103370.streamlit.app"><img src="https://img.shields.io/badge/Live_Demo-c9a84c?style=flat-square&labelColor=0d0500"/></a></summary>
+<summary><b>🌿 Plant Disease Classifier</b> &nbsp;<code>Jun 2024</code> &nbsp;<img src="https://img.shields.io/badge/🌱_Edge_Deploy-6bcb77?style=flat-square&labelColor=052010"/> &nbsp;<a href="https://vaibhav-23103370.streamlit.app"><img src="https://img.shields.io/badge/🌐_Live-c9a84c?style=flat-square&labelColor=0d0500"/></a></summary>
 <br/>
 
 > *"Built for the edge. Trained for the field."*
@@ -206,23 +185,19 @@ class VaibhavSingh:
 
 | Metric | Achievement |
 |:---|:---|
-| 🏆 Accuracy | **93.53%** on 38-class PlantVillage |
-| 🔧 Technique | Selective unfreezing + early stopping |
+| 🏆 Test Accuracy | **93.53%** on 38-class PlantVillage dataset |
+| 🔧 Technique | Selective unfreezing + early stopping + augmentation |
 | 🎯 Target | Edge-device deployment |
 </details>
 
 <details>
-<summary><b>🗺️ StreetSense 2.0 — Delhi NCR</b> &nbsp;<img src="https://img.shields.io/badge/Navigation-5c85d6?style=flat-square&labelColor=050520"/> &nbsp;<a href="https://streetsense-nine.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-c9a84c?style=flat-square&labelColor=0d0500"/></a></summary>
+<summary><b>🗺️ StreetSense 2.0 — Delhi NCR Navigation</b> &nbsp;<img src="https://img.shields.io/badge/🏙️_Nav_Platform-5c85d6?style=flat-square&labelColor=050520"/> &nbsp;<a href="https://streetsense-nine.vercel.app"><img src="https://img.shields.io/badge/🌐_Live-c9a84c?style=flat-square&labelColor=0d0500"/></a></summary>
 <br/>
 
-> *"Navigate the kingdom's capital with precision."*
+> *"Navigate the kingdom's capital with precision and local intelligence."*
 
-**Stack:** `TypeScript` `Vercel`
-
-Premium Delhi NCR navigation with real-time maps & intelligent routing.
+**Stack:** `TypeScript` `Vercel` · Premium Delhi NCR navigation with real-time maps and intelligent routing.
 </details>
-
-<br/>
 
 ---
 
@@ -230,60 +205,38 @@ Premium Delhi NCR navigation with real-time maps & intelligent routing.
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║    ⚜️  IEEE INTERNATIONAL CONFERENCE PUBLICATION ⚜️   ║
+║   ⚜️  IEEE INTERNATIONAL CONFERENCE PUBLICATION  ⚜️   ║
 ╠══════════════════════════════════════════════════════╣
 ║  Smart Retail: ML for Demand Prediction,             ║
 ║  Pricing Strategy & Inventory Management             ║
 ║                                                      ║
-║  16th IEEE CICN · Dec 2024                           ║
+║  16th IEEE CICN · December 2024                      ║
 ║  ★ CITED WITHIN 4 MONTHS OF PUBLICATION ★           ║
 ║                                                      ║
-║  Demand MSE: 8.15%   ·   Price MSE: 1.11%            ║
+║  Demand MSE : 8.15%   ·   Price MSE : 1.11%          ║
 ║  10-fold CV · 10 SKUs · Random Forest pipeline       ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
-<a href="https://doi.org/10.1109/CICN63059.2024.10847534"><img src="https://img.shields.io/badge/Read_the_Sacred_Scroll_%E2%80%94_IEEE_DOI-faecc8?style=for-the-badge&logo=ieee&logoColor=faecc8&labelColor=0d0500&color=6b3008"/></a>
-
-<br/>
-
----
-
-### 🌱 Active Campaigns
-
-```
-  🛡️  AWS Cloud Solutions Architect
-      └─ Cloud-infra foundations for ML workloads
-
-  📚  Deep Learning Specialization · Andrew Ng
-      └─ Bridging the theory gap in every project
-
-  ⚙️   ML in Production · Andrew Ng
-      └─ Clever hacks → real production pipelines
-
-  🎯  Long-term: AWS ML Specialty Certification
-```
+<a href="https://doi.org/10.1109/CICN63059.2024.10847534"><img src="https://img.shields.io/badge/Read_the_Sacred_Scroll_—_IEEE_DOI-faecc8?style=for-the-badge&logo=ieee&logoColor=faecc8&labelColor=0d0500&color=6b3008"/></a>
 
 </td>
 </tr>
 </table>
 
-<!-- ============================================================ -->
-<!--                   ACTIVITY GRAPH                            -->
-<!-- ============================================================ -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                     ACTIVITY GRAPH                            -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav1962&bg_color=0d0500&color=c9a84c&line=9e5c18&point=faecc8&area=true&hide_border=true&area_color=2a0f02&radius=8" width="98%"/>
 
-</div>
-
 <br/>
 
-<div align="center">
-
 ```
-⚔️  Seeking an internship where the problems are hard and the stakes are real.  ⚔️
+        ⚔️  Seeking an internship where the problems are hard
+                   and the stakes are real.  ⚔️
 ```
 
 </div>
