@@ -11,115 +11,104 @@
 <a href="https://github.com/Vaibhav1962"><img src="https://img.shields.io/badge/GitHub-Vaibhav1962-faecc8?style=for-the-badge&logo=github&logoColor=faecc8&labelColor=0d0500&color=6b3008"/></a>&nbsp;
 <a href="https://leetcode.com/u/user3723OG/"><img src="https://img.shields.io/badge/LeetCode-user3723OG-faecc8?style=for-the-badge&logo=leetcode&logoColor=faecc8&labelColor=0d0500&color=6b3008"/></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Vaibhav1962&color=6b3008&style=flat-square&label=Profile+Visitors" />
+
 </div>
 
 <br/>
 
-<!-- ================================================================ -->
-<!--        TWO-COLUMN LAYOUT: SIDEBAR (left) + CONTENT (right)       -->
-<!-- ================================================================ -->
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-<!-- ──────────────────── DIVIDER ──────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=4&width=100%25" width="100%"/>
-
-**`⚔️ COMBAT RECORD ⚔️`**
-
-<!-- streak-stats.demolab.com is the most reliable streak provider -->
-<img src="https://streak-stats.demolab.com?user=Vaibhav1962&theme=dark&hide_border=true&background=0d0500&ring=c9a84c&fire=9e5c18&currStreakLabel=c9a84c&sideLabels=faecc8&currStreakNum=faecc8&sideNums=faecc8&dates=a07830&stroke=6b3008&border_radius=8" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=4&width=100%25" width="100%"/>
-
-**`📊 KINGDOM METRICS`**
-
-<!-- anuraghazra stats - most stable instance -->
-<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav1962&show_icons=true&hide_border=true&bg_color=0d0500&title_color=c9a84c&text_color=faecc8&icon_color=9e5c18&hide_title=true&rank_icon=github&theme=dark&border_radius=8&count_private=true" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=4&width=100%25" width="100%"/>
-
-**`🗣️ BATTLE LANGUAGES`**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav1962&layout=compact&hide_border=true&bg_color=0d0500&title_color=c9a84c&text_color=faecc8&theme=dark&border_radius=8&langs_count=6" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=4&width=100%25" width="100%"/>
-
-**`⚙️ THE ARSENAL`**
-
-<img src="https://skillicons.dev/icons?i=cpp,python,tensorflow&theme=dark&perline=3" />
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker&theme=dark&perline=3" />
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,git&theme=dark&perline=3" />
-<img src="https://skillicons.dev/icons?i=mysql,supabase,linux&theme=dark&perline=3" />
-<img src="https://skillicons.dev/icons?i=react,ts,aws&theme=dark&perline=3" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=4&width=100%25" width="100%"/>
-
-**`🏆 ORDER OF MERIT`**
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vaibhav1962&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=3" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=4&width=100%25" width="100%"/>
-
-**`🌱 ACTIVE QUESTS`**
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                       KNIGHT'S DOSSIER                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 ```
-🛡️ AWS Architect
-📚 Deep Learning (Ng)
-⚙️ MLOps in Production
-🎯 AWS ML Certification
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=4&width=100%25" width="100%"/>
-
-`📍 Delhi, India`&nbsp;&nbsp;`🎓 JIIT 2027`
-
-<img src="https://komarev.com/ghpvc/?username=Vaibhav1962&color=6b3008&style=flat-square&label=Visitors" />
-
-</td>
-
-<!-- ════════════════════════════════════════════════ -->
-<!--                  MAIN CONTENT                  -->
-<!-- ════════════════════════════════════════════════ -->
-<td width="67%" valign="top">
-
-```
-╔══════════════════════════════════════════════════════╗
-║              ⚔️   KNIGHT'S DOSSIER   ⚔️               ║
-╠══════════════════════════════════════════════════════╣
-║  Rank    ›  3rd Year CS Undergrad                    ║
-║  Guild   ›  JIIT Noida  ·  2023–2027                 ║
-║  Order   ›  ML Engineer  ·  IEEE Researcher          ║
-║  Arsenal ›  RoBERTa · FastAPI · Docker · sklearn     ║
-║  Creed   ›  Sub-200ms p95 or the kingdom falls       ║
-║                                                      ║
-║  ❝ He who deploys models in production               ║
-║    shall inherit the kingdom. ❞                      ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                    ⚔️    KNIGHT'S DOSSIER    ⚔️                       ║
+╠══════════════════════════════════════════════════════════════════════╣
+║   Rank     ›   3rd Year CS Undergrad                                 ║
+║   Guild    ›   JIIT Noida   ·   2023–2027                            ║
+║   Order    ›   ML Engineer   ·   IEEE Researcher                     ║
+║   Arsenal  ›   RoBERTa  ·  FastAPI  ·  Docker  ·  sklearn            ║
+║   Creed    ›   Sub-200ms p95 — or the kingdom falls                  ║
+║   Domain   ›   Delhi, India                                          ║
+║                                                                      ║
+║       ❝ He who deploys models in production                          ║
+║         shall inherit the kingdom. ❞                                 ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ```python
 class VaibhavSingh:
-    rank    = "ML Engineer · IEEE Author"
-    guild   = "JIIT Noida (2023–2027)"
-    creed   = "sub-200ms p95 or nothing"
+    rank   = "ML Engineer · IEEE Author"
+    guild  = "JIIT Noida (2023–2027)"
+    creed  = "sub-200ms p95 or nothing"
 
     conquests = {
-      "emotion_clf" : "93%    · 28 classes",
-      "crisis_det"  : "F1     · 0.928",
-      "plant_clf"   : "93.53% · 38 classes",
-      "ieee_paper"  : "cited in 4 months",
+        "emotion_clf"  : "93%    · 28 classes",
+        "crisis_det"   : "F1     · 0.928",
+        "plant_clf"    : "93.53% · 38 classes",
+        "ieee_paper"   : "cited within 4 months",
     }
     quests = [
-      "AWS Cloud Architecture",
-      "Deep Learning (Andrew Ng)",
-      "MLOps in Production",
+        "AWS Cloud Architecture",
+        "Deep Learning (Andrew Ng)",
+        "MLOps in Production",
     ]
     def motto(self) -> str:
         return "Ship it. Measure it. Conquer."
 ```
 
----
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                         COMBAT RECORD                            -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⚔️ Combat Record
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav1962&show_icons=true&hide_border=true&bg_color=0d0500&title_color=c9a84c&text_color=faecc8&icon_color=9e5c18&rank_icon=github&count_private=true&cache_seconds=86400&include_all_commits=true" height="180"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=Vaibhav1962&theme=dark&hide_border=true&background=0d0500&ring=c9a84c&fire=9e5c18&currStreakLabel=c9a84c&sideLabels=faecc8&currStreakNum=faecc8&sideNums=faecc8&dates=a07830&stroke=6b3008&border_radius=8" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav1962&layout=compact&hide_border=true&bg_color=0d0500&title_color=c9a84c&text_color=faecc8&langs_count=8&cache_seconds=86400" height="180"/>
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                         THE ARSENAL                              -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⚙️ The Arsenal
+
+**Languages & Core**
+
+<img src="https://skillicons.dev/icons?i=cpp,python,ts,react&theme=dark" />
+
+**Machine Learning & AI**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+
+**Backend & Deployment**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,aws&theme=dark" />
+
+**Data & Tooling**
+
+<img src="https://skillicons.dev/icons?i=mysql,supabase,linux,git&theme=dark" />
+
+</div>
+
+<br/>
 
 ### ⚡ Skill Mastery
 
@@ -134,9 +123,13 @@ class VaibhavSingh:
   Cloud / AWS     ████████░░░░░░░░░░░░░░░░  30%   ⬆ Novice
 ```
 
----
+<br/>
 
-### 🗡️ Conquests & Campaigns
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                      CONQUESTS & CAMPAIGNS                       -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## 🗡️ Conquests & Campaigns
 
 <details>
 <summary><b>🧠 SOUL — Mental Health &amp; Emotion Prediction API</b> &nbsp;<code>Feb 2025</code> &nbsp;<img src="https://img.shields.io/badge/👑_Crown_Jewel-c9a84c?style=flat-square&labelColor=0d0500"/></summary>
@@ -157,6 +150,7 @@ class VaibhavSingh:
 - Model warmup + tokenizer caching → cold-start eliminated
 - Horizontal scaling behind load balancer
 - Unit-tested inference pipeline with structured logging
+
 </details>
 
 <details>
@@ -173,6 +167,7 @@ class VaibhavSingh:
 | 🤖 ML Models | K-Means archetypes + Random Forest risk pipeline |
 | 🔬 Simulation | What-If · Ablation · Goal Sensitivity endpoints |
 | 🚀 Deployment | Flask REST → Render + Supabase |
+
 </details>
 
 <details>
@@ -188,6 +183,7 @@ class VaibhavSingh:
 | 🏆 Test Accuracy | **93.53%** on 38-class PlantVillage dataset |
 | 🔧 Technique | Selective unfreezing + early stopping + augmentation |
 | 🎯 Target | Edge-device deployment |
+
 </details>
 
 <details>
@@ -197,46 +193,82 @@ class VaibhavSingh:
 > *"Navigate the kingdom's capital with precision and local intelligence."*
 
 **Stack:** `TypeScript` `Vercel` · Premium Delhi NCR navigation with real-time maps and intelligent routing.
+
 </details>
 
----
-
-### 📜 Research — IEEE CICN 2024
-
-```
-╔══════════════════════════════════════════════════════╗
-║   ⚜️  IEEE INTERNATIONAL CONFERENCE PUBLICATION  ⚜️   ║
-╠══════════════════════════════════════════════════════╣
-║  Smart Retail: ML for Demand Prediction,             ║
-║  Pricing Strategy & Inventory Management             ║
-║                                                      ║
-║  16th IEEE CICN · December 2024                      ║
-║  ★ CITED WITHIN 4 MONTHS OF PUBLICATION ★           ║
-║                                                      ║
-║  Demand MSE : 8.15%   ·   Price MSE : 1.11%          ║
-║  10-fold CV · 10 SKUs · Random Forest pipeline       ║
-╚══════════════════════════════════════════════════════╝
-```
-
-<a href="https://doi.org/10.1109/CICN63059.2024.10847534"><img src="https://img.shields.io/badge/Read_the_Sacred_Scroll_—_IEEE_DOI-faecc8?style=for-the-badge&logo=ieee&logoColor=faecc8&labelColor=0d0500&color=6b3008"/></a>
-
-</td>
-</tr>
-</table>
+<br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--                     ACTIVITY GRAPH                            -->
+<!--                            RESEARCH                              -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## 📜 Research — IEEE CICN 2024
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║      ⚜️    IEEE INTERNATIONAL CONFERENCE PUBLICATION    ⚜️             ║
+╠══════════════════════════════════════════════════════════════════════╣
+║   Smart Retail: ML for Demand Prediction,                            ║
+║   Pricing Strategy & Inventory Management                            ║
+║                                                                      ║
+║   16th IEEE CICN  ·  December 2024                                   ║
+║   ★ CITED WITHIN 4 MONTHS OF PUBLICATION ★                          ║
+║                                                                      ║
+║   Demand MSE  :  8.15%       ·       Price MSE  :  1.11%             ║
+║   10-fold CV  ·  10 SKUs  ·  Random Forest pipeline                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+<a href="https://doi.org/10.1109/CICN63059.2024.10847534"><img src="https://img.shields.io/badge/Read_the_Sacred_Scroll_—_IEEE_DOI-faecc8?style=for-the-badge&logo=ieee&logoColor=faecc8&labelColor=0d0500&color=6b3008"/></a>
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                       ORDER OF MERIT                             -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav1962&bg_color=0d0500&color=c9a84c&line=9e5c18&point=faecc8&area=true&hide_border=true&area_color=2a0f02&radius=8" width="98%"/>
+## 🏆 Order of Merit
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vaibhav1962&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
 
 <br/>
 
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                        ACTIVE QUESTS                             -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## 🌱 Active Quests
+
+```
+  🛡️  AWS Solutions Architect — Associate
+  📚  Deep Learning Specialization (Andrew Ng)
+  ⚙️  MLOps in Production
+  🎯  AWS Machine Learning Specialty Certification
+```
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                       ACTIVITY GRAPH                             -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📈 Battlefield Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav1962&bg_color=0d0500&color=c9a84c&line=9e5c18&point=faecc8&area=true&hide_border=true&area_color=2a0f02&radius=8" width="98%"/>
+
+<br/><br/>
+
 ```
         ⚔️  Seeking an internship where the problems are hard
-                   and the stakes are real.  ⚔️
+                    and the stakes are real.  ⚔️
 ```
 
 </div>
