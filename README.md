@@ -1,32 +1,32 @@
 <div align="center">
 
-<!-- ANIMATED MEDIEVAL BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a00,50:8B4513,100:C9A84C&height=200&section=header&text=VAIBHAV%20SINGH&fontSize=60&fontColor=F5DEB3&fontAlignY=38&desc=⚔️%20ML%20Engineer%20%7C%20IEEE%20Researcher%20%7C%20Builder%20of%20Intelligent%20Systems%20⚔️&descAlignY=60&descSize=16&animation=fadeIn&fontFamily=Georgia" />
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=26&duration=2800&pause=1200&color=C9A84C&center=true&vCenter=true&width=750&lines=⚔️+Third+Year+Knight+of+JIIT+Noida;🏰+Architect+of+Intelligent+Systems;📜+IEEE+Published+Researcher+(Cited+in+4+months);🔮+Transformer+Whisperer+%26+API+Blacksmith;⚡+Sub-200ms+Latency+or+Nothing" alt="Typing SVG" /></a>
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a00,40:5c3317,70:8B4513,100:C9A84C&height=220&section=header&text=VAIBHAV%20SINGH&fontSize=65&fontColor=F5DEB3&fontAlignY=40&desc=⚔️%20ML%20Engineer%20%7C%20IEEE%20Researcher%20%7C%20Builder%20of%20Intelligent%20Systems%20⚔️&descAlignY=62&descSize=15&animation=fadeIn" />
 
 <br/>
 
+<!-- WORKING TYPING ANIMATION - uses Georgia which is supported -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=22&duration=2800&pause=1200&color=C9A84C&center=true&vCenter=true&width=800&lines=⚔️+Third+Year+Knight+of+JIIT+Noida;🏰+Architect+of+Intelligent+Systems;📜+IEEE+Published+%7C+Cited+within+4+months;🔮+Fine-tuned+RoBERTa+%7C+93%25+accuracy+%7C+28+classes;⚡+Sub-200ms+p95+latency+or+nothing;🧠+Fuzzy+Logic+%7C+Ensemble+Models+%7C+FastAPI" alt="Typing SVG" />
+
+<br/><br/>
+
 <!-- CONTACT SHIELDS -->
-[![LinkedIn](https://img.shields.io/badge/⚔️_LinkedIn-vaibhav252005-C9A84C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0a00)](https://www.linkedin.com/in/vaibhav252005/)
-[![Gmail](https://img.shields.io/badge/📜_Gmail-vaibhav.singh.252005-C9A84C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0a00)](mailto:vaibhav.singh.252005@gmail.com)
-[![GitHub](https://img.shields.io/badge/🏰_GitHub-Vaibhav1962-C9A84C?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0a00)](https://github.com/Vaibhav1962)
-[![LeetCode](https://img.shields.io/badge/⚡_LeetCode-user3723OG-C9A84C?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0a00)](https://leetcode.com/u/user3723OG/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vaibhav252005-C9A84C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0a00)](https://www.linkedin.com/in/vaibhav252005/)
+[![Gmail](https://img.shields.io/badge/Gmail-vaibhav.singh.252005-C9A84C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0a00)](mailto:vaibhav.singh.252005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Vaibhav1962-C9A84C?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0a00)](https://github.com/Vaibhav1962)
+[![LeetCode](https://img.shields.io/badge/LeetCode-user3723OG-C9A84C?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0a00)](https://leetcode.com/u/user3723OG/)
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"></div>
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> &nbsp;The Legend
+## 🏰 The Legend
 
 <table>
 <tr>
-<td width="55%">
+<td width="52%">
 
 ```
 ┌─────────────────────────────────────────┐
@@ -37,7 +37,7 @@
 │  Guild  : JIIT Noida  (2023 – 2027)     │
 │  Class  : ML Engineer / Researcher      │
 │  Weapon : RoBERTa · FastAPI · Docker    │
-│  Quest  : Sub-200ms or bust             │
+│  Creed  : Sub-200ms or bust             │
 │                                         │
 │  "He who deploys models in production   │
 │   shall inherit the kingdom."           │
@@ -46,7 +46,7 @@
 ```
 
 </td>
-<td width="45%">
+<td width="48%">
 
 ```python
 class VaibhavSingh:
@@ -56,16 +56,16 @@ class VaibhavSingh:
         self.cited_in = "4 months"
         self.latency  = "sub-200ms p95"
         self.accuracy = {
-            "emotion_clf" : "93%  (28 cls)",
-            "crisis_det"  : "F1 → 0.928",
-            "plant_clf"   : "93.53%",
+          "emotion_clf" : "93%  (28 cls)",
+          "crisis_det"  : "F1 → 0.928",
+          "plant_clf"   : "93.53%",
         }
 
     def current_quest(self):
         return [
-            "AWS Cloud Architecture",
-            "Deep Learning Theory",
-            "MLOps in Production",
+          "AWS Cloud Architecture",
+          "Deep Learning Theory",
+          "MLOps in Production",
         ]
 ```
 
@@ -75,11 +75,51 @@ class VaibhavSingh:
 
 ---
 
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"></div>
+
+## ⚡ Skill Mastery — The Knight's Proficiency
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+
+**C++** &nbsp;`████████████████████░░░░` &nbsp; **82%**
+
+![C++](https://img.shields.io/badge/C++-82%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![](https://geps.dev/progress/82?dangerColor=C9A84C&warningColor=C9A84C&successColor=C9A84C)
+
+**Python** &nbsp;`█████████████████░░░░░░░` &nbsp; **75%**
+
+![Python](https://img.shields.io/badge/Python-75%25-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://geps.dev/progress/75?dangerColor=C9A84C&warningColor=C9A84C&successColor=C9A84C)
+
+**Machine Learning / NLP** &nbsp;`████████████████████░░░░` &nbsp; **80%**
+
+![ML](https://img.shields.io/badge/ML%2FNLP-80%25-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![](https://geps.dev/progress/80?dangerColor=C9A84C&warningColor=C9A84C&successColor=C9A84C)
+
+**FastAPI / Flask** &nbsp;`██████████████████░░░░░░` &nbsp; **78%**
+
+![FastAPI](https://img.shields.io/badge/FastAPI%2FFlask-78%25-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://geps.dev/progress/78?dangerColor=C9A84C&warningColor=C9A84C&successColor=C9A84C)
+
+**Docker / DevOps** &nbsp;`███████████████░░░░░░░░░` &nbsp; **65%**
+
+![Docker](https://img.shields.io/badge/Docker%2FDevOps-65%25-2496ED?style=flat-square&logo=docker&logoColor=white) ![](https://geps.dev/progress/65?dangerColor=C9A84C&warningColor=C9A84C&successColor=C9A84C)
+
+**SQL / Databases** &nbsp;`██████████████░░░░░░░░░░` &nbsp; **60%**
+
+![SQL](https://img.shields.io/badge/SQL%2FDatabases-60%25-4479A1?style=flat-square&logo=mysql&logoColor=white) ![](https://geps.dev/progress/60?dangerColor=C9A84C&warningColor=C9A84C&successColor=C9A84C)
+
+**DSA / Algorithms** &nbsp;`███████████████░░░░░░░░░` &nbsp; **65%**
+
+![DSA](https://img.shields.io/badge/DSA%2FAlgorithms-65%25-8B4513?style=flat-square&logo=leetcode&logoColor=white) ![](https://geps.dev/progress/65?dangerColor=C9A84C&warningColor=C9A84C&successColor=C9A84C)
+
+**Cloud / AWS** &nbsp;`████████░░░░░░░░░░░░░░░░` &nbsp; **30%** *(actively levelling up)*
+
+![AWS](https://img.shields.io/badge/Cloud%2FAWS-30%25-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![](https://geps.dev/progress/30?dangerColor=C9A84C&warningColor=C9A84C&successColor=C9A84C)
+
 </div>
 
-## 🏰 Conquests & Campaigns
+---
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"></div>
+
+## 🗡️ Conquests & Campaigns
 
 <!-- PROJECT 1 -->
 <details>
@@ -132,7 +172,7 @@ class VaibhavSingh:
 
 <!-- PROJECT 3 -->
 <details>
-<summary><b>🌿 Plant Disease Classifier</b> &nbsp; <code>Jun 2024</code> &nbsp; <img src="https://img.shields.io/badge/🌱_Edge_Deployment-6BCB77?style=flat-square"/> &nbsp; <a href="https://plant-disease-detec.streamlit.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-C9A84C?style=flat-square"/></a></summary>
+<summary><b>🌿 Plant Disease Classifier</b> &nbsp; <code>Jun 2024</code> &nbsp; <img src="https://img.shields.io/badge/🌱_Edge_Deployment-6BCB77?style=flat-square"/> &nbsp; <a href="https://vaibhav-23103370.streamlit.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-C9A84C?style=flat-square"/></a></summary>
 
 <br/>
 
@@ -153,7 +193,7 @@ class VaibhavSingh:
 
 <!-- PROJECT 4 -->
 <details>
-<summary><b>🗺️ StreetSense 2.0</b> &nbsp; <img src="https://img.shields.io/badge/🏙️_Delhi_NCR_Navigation-5C85D6?style=flat-square"/> &nbsp; <a href="https://streetsense-nine.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-C9A84C?style=flat-square"/></a></summary>
+<summary><b>🗺️ StreetSense 2.0 — Delhi NCR Navigation</b> &nbsp; <img src="https://img.shields.io/badge/🏙️_Navigation_Platform-5C85D6?style=flat-square"/> &nbsp; <a href="https://streetsense-nine.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-C9A84C?style=flat-square"/></a></summary>
 
 <br/>
 
@@ -167,9 +207,7 @@ Premium Delhi NCR navigation platform with real-time maps, route planning, and l
 
 ---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"></div>
 
 ## 📜 The Sacred Scrolls — Research
 
@@ -200,28 +238,26 @@ Premium Delhi NCR navigation platform with real-time maps, route planning, and l
 
 ---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"></div>
 
-## ⚔️ Arsenal & Weaponry
+## ⚔️ Full Arsenal
 
 <div align="center">
 
-**— Languages of the Realm —**
+**— Languages —**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**— Arcane ML Arts —**
+**— ML & AI —**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**— Battle Infrastructure —**
+**— Backend & Infra —**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -229,7 +265,7 @@ Premium Delhi NCR navigation platform with real-time maps, route planning, and l
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**— The Vaults —**
+**— Data & Tools —**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -240,17 +276,15 @@ Premium Delhi NCR navigation platform with real-time maps, route planning, and l
 
 ---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"></div>
 
 ## 📊 The War Room
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=Vaibhav1962&theme=dark&hide_border=true&bg_color=0d0a00&title_color=C9A84C&text_color=F5DEB3&icon_color=8B4513&show_icons=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vaibhav1962&theme=dark&hide_border=true&bg_color=0d0a00&title_color=C9A84C&text_color=F5DEB3&layout=compact" />
+<img height="175em" src="https://github-readme-stats.shion.dev/api?username=Vaibhav1962&theme=dark&hide_border=true&bg_color=0d0a00&title_color=C9A84C&text_color=F5DEB3&icon_color=8B4513&show_icons=true" />
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vaibhav1962&theme=dark&hide_border=true&bg_color=0d0a00&title_color=C9A84C&text_color=F5DEB3&layout=compact" />
 
 <br/><br/>
 
@@ -274,9 +308,7 @@ Premium Delhi NCR navigation platform with real-time maps, route planning, and l
 
 ---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"></div>
 
 ## 🌱 Current Quests
 
@@ -296,7 +328,7 @@ Premium Delhi NCR navigation platform with real-time maps, route planning, and l
 │  ⚙️   ML in Production  (Andrew Ng)                      │
 │       └─ Moving from clever hacks to real pipelines     │
 │                                                          │
-│  🎯  Long-term target: AWS ML Specialty Certification    │
+│  🎯  Long-term: AWS ML Specialty Certification           │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
@@ -312,7 +344,7 @@ Premium Delhi NCR navigation platform with real-time maps, route planning, and l
 <br/><br/>
 
 ```
-⚔️  Currently seeking an internship where the problems are hard and the stakes are real.  ⚔️
+⚔️  Seeking an internship where the problems are hard and the stakes are real.  ⚔️
 ```
 
 <br/>
@@ -321,7 +353,6 @@ Premium Delhi NCR navigation platform with real-time maps, route planning, and l
 
 <br/>
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A84C,50:8B4513,100:1a0a00&height=120&section=footer&animation=fadeIn" />
 
 </div>
